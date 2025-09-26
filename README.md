@@ -84,6 +84,10 @@ pip install -r requirements.txt
 - Understanding of **ensemble techniques** (Random Forest, boosting, etc.)  
 - Exposure to **end-to-end ML workflows** — from raw data to model insights  
 
+## Author
+**Manel Hjaoujia**  
+Junior Data Scientist 
+Passionate about Data Science & Machine Learning  
 
 
 
